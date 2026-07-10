@@ -1,6 +1,6 @@
 # Pandas Project
 
-A beginner-friendly data analysis project using **Pandas** in Python. This notebook demonstrates how to load, explore, clean, and analyze a cricket matches dataset (`matches.csv`) using common Pandas operations.
+A beginner-friendly data analysis project using **Pandas** in Python. This notebook demonstrates how to load, explore, clean, and analyze a Footaball matches dataset (`matches.csv`) using common Pandas operations.
 
 ## 📂 Project Structure
 
