@@ -58,7 +58,7 @@ jupyter notebook
 
 ## 📊 Dataset
 
-The project uses **matches.csv**, which contains cricket match data for practicing data analysis with Pandas.
+The project uses **matches.csv**, which contains Football match data for practicing data analysis with Pandas.
 
 ## 📚 Learning Topics
 
